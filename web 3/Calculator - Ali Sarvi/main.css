@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+}
+div.whole {
+  background-color: rgb(53, 53, 53);
+  margin-top: 150px;
+  border-radius: 14px;
+  font-family: Arial;
+  font-size: 10px;
+  display: flex;
+  flex-direction: column;
+}
+div.whole .view input {
+  width: 100%;
+  padding: 20px;
+  background-color: rgb(66, 66, 66);
+  border-start-end-radius: 15px;
+  border-start-start-radius: 15px;
+  font-size: 40px;
+  color: white;
+  margin-bottom: 10px;
+}
+div.whole .view input[type="text"] {
+  border: none;
+  pointer-events: none;
+}
+div.whole div.op {
+  display: flex;
+  flex-direction: row;
+}
+div.whole div.ops button {
+  width: 100px;
+  height: 100px;
+  font-size: 40px;
+  color: white;
+  background-color: rgba(0, 138, 0, 0.781);
+  border: none;
+
+  border-radius: 50%;
+  cursor: pointer;
+  margin: 5px;
+}
+div.whole div.ops button:hover {
+  background-color: rgb(0, 189, 0);
+  transition: ease-in-out 150ms;
+}
+div.whole div.ops button:active {
+  background-color: rgb(0, 78, 0);
+  transition: ease-in-out 80ms;
+}
+
+div.whole .items .number,
+div.whole .items .del,
+div.whole .items .confirm {
+  width: 100px;
+  height: 100px;
+  font-size: 40px;
+  margin: 6.2px;
+  background-color: rgb(19, 19, 19);
+  border: none;
+  border-radius: 50%;
+  color: white;
+  cursor: pointer;
+  padding: 20px;
+}
+div.whole .items .number:hover {
+  background-color: rgb(130, 130, 130);
+  transition: ease-in-out 150ms;
+}
+div.whole .items .del:hover {
+  background-color: rgb(130, 130, 130);
+  transition: ease-in-out 150ms;
+}
+div.whole .items .confirm:hover {
+  background-color: rgb(130, 130, 130);
+  transition: ease-in-out 150ms;
+}
+div.whole .items .number:active {
+  background-color: rgb(85, 85, 85);
+  transition: ease-in-out 80ms;
+}
+div.whole .items .del:active {
+  background-color: rgb(85, 85, 85);
+  transition: ease-in-out 80ms;
+}
+div.whole .items .confirm:active {
+  background-color: rgb(85, 85, 85);
+  transition: ease-in-out 80ms;
+}
+
+div.whole div.items {
+  display: flex;
+  flex-direction: row;
+}

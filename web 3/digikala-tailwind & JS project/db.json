@@ -1,0 +1,817 @@
+{
+  "header1": [{ "id": 1, "image": "./img/1.webp" }],
+  "header2": {
+    "rightSide": [
+      {
+        "id": 1,
+        "digiLogo": "./img/digiLogo.svg",
+        "magnifier": "./img/magnifier.png",
+        "typography": "./img/typography.svg",
+        "magCam": "./img/mag&cam.png"
+      }
+    ],
+    "leftSide": [
+      {
+        "id": 1,
+        "bell": "./img/bell-860.svg",
+        "enter": "./img/vorod.svg",
+        "enterSpan": "ورود | ثبت نام",
+        "shopingCart": "./img/svgexport-sabad-kharid.svg"
+      }
+    ]
+  },
+  "header3": {
+    "menuHorizontal": [
+      {
+        "id": 1,
+        "image1": "./img/svgexport-6.svg",
+        "span1": "دسته‌بندی کالاها",
+        "subMenuSpan1": "موبایل",
+        "subMenuSpan2": "لپ تاپ",
+        "subMenuSpan3": "کالای دیجیتال",
+        "subMenuSpan4": "خانه و آشپزخانه",
+        "subMenuSpan5": "لوازم خانگی برقی",
+        "image2": "./img/svgexport-takhfif.svg",
+        "span2": "شگفت‌انگیزها",
+        "image3": "./img/basket.png",
+        "span3": "سوپرمارکت",
+        "image4": "./img/gold-bar.png",
+        "span4": "طلای دیجیتال",
+        "image5": "./img/svgexport-por-forosh.svg",
+        "span5": "پرفروش‌ترین‌ها",
+        "span6": "سوالی دارید؟",
+        "span7": "در دیجی‌کالا بفروشید!"
+      }
+    ],
+    "city": [
+      {
+        "id": 1,
+        "image1": "./img/sm-location.png",
+        "image2": "./img/location-2952.png",
+        "span1": "انتخاب استان و شهر",
+        "span2": "شهر خود را انتخاب کنید",
+        "pointer": "./img/pointer.svg"
+      }
+    ]
+  },
+  "headerSm": [
+    {
+      "id": 1,
+      "image1": "./img/serviceHa.png",
+      "span1": "سرویس‌ها",
+      "image2": "./img/digikala-sm-box.png",
+      "span2": "دیجی‌کالا",
+      "image3": "./img/45Min.png",
+      "span3": "۴۵ دقیقه‌ای",
+      "image4": "./img/tala-sm.png",
+      "span4": "طلای دیجیتال",
+      "image5": "./img/supermarket-sm.png",
+      "span5": "سوپرمارکت",
+      "image6": "./img/Etebar-kharid.png",
+      "span6": "اعتبار خرید"
+    }
+  ],
+  "section1": [
+    { "id": 1, "image": "./img/story-item1.jpg", "title": "ضد استرس" },
+    {
+      "id": 2,
+      "image": "./img/story-item2.jpg",
+      "title": "میکروفن بیسیم ۷۰۰ هزار تومنی"
+    },
+    { "id": 3, "image": "./img/story-item3.jpg", "title": "کیبورد میلیمتری!" },
+    { "id": 4, "image": "./img/story-item1.jpg", "title": "ضد استرس" },
+    {
+      "id": 5,
+      "image": "./img/story-item2.jpg",
+      "title": "میکروفن بیسیم ۷۰۰ هزار تومنی"
+    },
+    { "id": 6, "image": "./img/story-item3.jpg", "title": "کیبورد میلیمتری!" },
+    { "id": 7, "image": "./img/story-item1.jpg", "title": "ضد استرس" },
+    {
+      "id": 8,
+      "image": "./img/story-item2.jpg",
+      "title": "میکروفن بیسیم ۷۰۰ هزار تومنی"
+    },
+    { "id": 9, "image": "./img/story-item3.jpg", "title": "کیبورد میلیمتری!" },
+    { "id": 10, "image": "./img/story-item1.jpg", "title": "ضد استرس" },
+    {
+      "id": 11,
+      "image": "./img/story-item2.jpg",
+      "title": "میکروفن بیسیم ۷۰۰ هزار تومنی"
+    },
+    { "id": 12, "image": "./img/story-item3.jpg", "title": "کیبورد میلیمتری!" },
+    { "id": 13, "image": "./img/story-item1.jpg", "title": "ضد استرس" },
+    {
+      "id": 14,
+      "image": "./img/story-item2.jpg",
+      "title": "میکروفن بیسیم ۷۰۰ هزار تومنی"
+    },
+    { "id": 15, "image": "./img/story-item3.jpg", "title": "کیبورد میلیمتری!" },
+    { "id": 16, "image": "./img/story-item1.jpg", "title": "ضد استرس" },
+    {
+      "id": 17,
+      "image": "./img/story-item2.jpg",
+      "title": "میکروفن بیسیم ۷۰۰ هزار تومنی"
+    },
+    { "id": 18, "image": "./img/story-item3.jpg", "title": "کیبورد میلیمتری!" },
+    { "id": 19, "image": "./img/story-item1.jpg", "title": "ضد استرس" },
+    {
+      "id": 20,
+      "image": "./img/story-item2.jpg",
+      "title": "میکروفن بیسیم ۷۰۰ هزار تومنی"
+    }
+  ],
+  "section2": [
+    { "id": 1, "image": "./img/swiper-item1.gif", "alt": "slide1" },
+    { "id": 2, "image": "./img/swiper-item2.webp", "alt": "slide2" },
+    { "id": 3, "image": "./img/swiper-item3.webp", "alt": "slide3" },
+    { "id": 4, "image": "./img/swiper-item4.webp", "alt": "slide4" },
+    { "id": 5, "image": "./img/swiper-item5.webp", "alt": "slide5" },
+    { "id": 6, "image": "./img/swiper-item6.webp", "alt": "slide6" },
+    { "id": 7, "image": "./img/swiper-item7.webp", "alt": "slide7" },
+    { "id": 8, "image": "./img/swiper-item8.webp", "alt": "slide8" },
+    { "id": 9, "image": "./img/swiper-item9.gif", "alt": "slide9" }
+  ],
+  "section3": [
+    { "id": 1, "image": "./img/supermarket.png", "title": "سوپرمارکت" },
+    { "id": 2, "image": "./img/tala.png", "title": "طلای دیجیتال" },
+    { "id": 3, "image": "./img/kharid-ghes.png", "title": "دریافت اعتبار" },
+    { "id": 4, "image": "./img/supermarket.png", "title": "سوپرمارکت" },
+    { "id": 5, "image": "./img/tala.png", "title": "طلای دیجیتال" },
+    { "id": 6, "image": "./img/kharid-ghes.png", "title": "دریافت اعتبار" },
+    { "id": 7, "image": "./img/supermarket.png", "title": "سوپرمارکت" },
+    { "id": 8, "image": "./img/tala.png", "title": "طلای دیجیتال" },
+    { "id": 9, "image": "./img/bishtar-Photoroom.png", "title": "بیشتر" }
+  ],
+  "section4": {
+    "mobileTimer": [
+      {
+        "id": 1,
+        "image": "./img/Amazing.svg",
+        "image2": "./img/shegeft.svg",
+        "sec": "01",
+        "min": "34",
+        "hour": "22",
+        "title": "همه",
+        "image3": "./img/pointer.svg"
+      }
+    ],
+    "timer": [
+      {
+        "id": 1,
+        "image": "./img/Amazings.svg",
+        "sec": "01",
+        "min": "34",
+        "hour": "22",
+        "image2": "./img/Amazing.svg",
+        "image3": "./img/transparent_1759753533_1225.svg"
+      }
+    ],
+    "firstSlide": [
+      {
+        "id": 1,
+        "image": "./img/red-swiper-item1.webp",
+        "h3": "گوشی موبایل سامسونگ مدل Galaxy A34 5G دو سیم کارت ظرفیت 128 گیگابایت و رم 8 گیگابایت",
+        "off": "17%",
+        "priceOff": "۲۶,۴۹۹,۰۰۰",
+        "toman": "./img/toman.svg",
+        "price": "۳۱,۹۶۴,۱۰۰"
+      }
+    ],
+    "slider": [
+      {
+        "id": 1,
+        "image": "./img/red-swiper-item2.webp",
+        "h3": "گوشی موبایل سامسونگ مدل Galaxy A34 5G دو سیم کارت ظرفیت 128 گیگابایت و رم 8 گیگابایت",
+        "off": "17%",
+        "priceOff": "۲۶,۴۹۹,۰۰۰",
+        "toman": "./img/toman.svg",
+        "price": "۳۱,۹۶۴,۱۰۰"
+      },
+      {
+        "id": 2,
+        "image": "./img/red-item-4.webp",
+        "h3": "گوشی موبایل سامسونگ مدل Galaxy A34 5G دو سیم کارت ظرفیت 128 گیگابایت و رم 8 گیگابایت",
+        "off": "17%",
+        "priceOff": "۲۶,۴۹۹,۰۰۰",
+        "toman": "./img/toman.svg",
+        "price": "۳۱,۹۶۴,۱۰۰"
+      },
+      {
+        "id": 3,
+        "image": "./img/red-swiper-item2.webp",
+        "h3": "گوشی موبایل سامسونگ مدل Galaxy A34 5G دو سیم کارت ظرفیت 128 گیگابایت و رم 8 گیگابایت",
+        "off": "17%",
+        "priceOff": "۲۶,۴۹۹,۰۰۰",
+        "toman": "./img/toman.svg",
+        "price": "۳۱,۹۶۴,۱۰۰"
+      },
+      {
+        "id": 4,
+        "image": "./img/red-item-4.webp",
+        "h3": "گوشی موبایل سامسونگ مدل Galaxy A34 5G دو سیم کارت ظرفیت 128 گیگابایت و رم 8 گیگابایت",
+        "off": "17%",
+        "priceOff": "۲۶,۴۹۹,۰۰۰",
+        "toman": "./img/toman.svg",
+        "price": "۳۱,۹۶۴,۱۰۰"
+      },
+      {
+        "id": 5,
+        "image": "./img/red-swiper-item2.webp",
+        "h3": "گوشی موبایل سامسونگ مدل Galaxy A34 5G دو سیم کارت ظرفیت 128 گیگابایت و رم 8 گیگابایت",
+        "off": "17%",
+        "priceOff": "۲۶,۴۹۹,۰۰۰",
+        "toman": "./img/toman.svg",
+        "price": "۳۱,۹۶۴,۱۰۰"
+      },
+      {
+        "id": 6,
+        "image": "./img/red-item-4.webp",
+        "h3": "گوشی موبایل سامسونگ مدل Galaxy A34 5G دو سیم کارت ظرفیت 128 گیگابایت و رم 8 گیگابایت",
+        "off": "17%",
+        "priceOff": "۲۶,۴۹۹,۰۰۰",
+        "toman": "./img/toman.svg",
+        "price": "۳۱,۹۶۴,۱۰۰"
+      }
+    ],
+    "lastSlide": [
+      { "id": 1, "image": "./img/pointerItemRed.svg", "title": "مشاهده همه" }
+    ]
+  },
+  "section5": [
+    {
+      "id": 1,
+      "image1": "./img/box-1-img.gif",
+      "image2": "./img/box-2-img.gif",
+      "image3": "./img/box-3-img.webp",
+      "image4": "./img/box-4-img.gif"
+    }
+  ],
+  "section6": {
+    "rightSec": [
+      {
+        "id": 1,
+        "img1": "./img/fresh.webp",
+        "img2": "./img/amazing-supermarket.svg",
+        "span": "تا ۷۰٪ تخفیف"
+      }
+    ],
+    "leftSec": [
+      {
+        "id": 1,
+        "img1": "./img/item1-supermarket.webp",
+        "span1": "70%",
+        "img2": "./img/item2-supermarket.webp",
+        "span2": "45%",
+        "img3": "./img/item3-supermarket.webp",
+        "span3": "40%",
+        "img4": "./img/pointerItemRed.svg",
+        "span4": "بیش از ۱۰۰ کالا"
+      }
+    ]
+  },
+  "section7": [
+    {
+      "id": 1,
+      "image1": "./img/box-5.webp",
+      "image2": "./img/box-6.webp",
+      "image3": "./img/box-7.gif",
+      "image4": "./img/box-8.webp"
+    }
+  ],
+  "section8": {
+    "spans": [
+      { "id": 1, "title1": "خرید بر اساس دسته‌بندی", "title2": "دسته‌بندی‌ها" }
+    ],
+    "slider": [
+      {
+        "id": 1,
+        "image1": "./img/mobile.jpg",
+        "image2": "./img/pezeshki.jpg",
+        "image3": "./img/lavazem-tahrir.jpg",
+        "image4": "./img/tala-va-nog.jpg",
+        "title1": "موبایل",
+        "title2": "سلامت و پزشکی",
+        "title3": "لوازم تحریر",
+        "title4": "طلا و نقره"
+      },
+      {
+        "id": 2,
+        "image1": "./img/mobile.jpg",
+        "image2": "./img/pezeshki.jpg",
+        "image3": "./img/lavazem-tahrir.jpg",
+        "image4": "./img/tala-va-nog.jpg",
+        "title1": "موبایل",
+        "title2": "سلامت و پزشکی",
+        "title3": "لوازم تحریر",
+        "title4": "طلا و نقره"
+      },
+      {
+        "id": 3,
+        "image1": "./img/mobile.jpg",
+        "image2": "./img/pezeshki.jpg",
+        "image3": "./img/lavazem-tahrir.jpg",
+        "image4": "./img/tala-va-nog.jpg",
+        "title1": "موبایل",
+        "title2": "سلامت و پزشکی",
+        "title3": "لوازم تحریر",
+        "title4": "طلا و نقره"
+      },
+      {
+        "id": 4,
+        "image1": "./img/mobile.jpg",
+        "image2": "./img/pezeshki.jpg",
+        "image3": "./img/lavazem-tahrir.jpg",
+        "image4": "./img/tala-va-nog.jpg",
+        "title1": "موبایل",
+        "title2": "سلامت و پزشکی",
+        "title3": "لوازم تحریر",
+        "title4": "طلا و نقره"
+      },
+      {
+        "id": 5,
+        "image1": "./img/mobile.jpg",
+        "image2": "./img/pezeshki.jpg",
+        "image3": "./img/lavazem-tahrir.jpg",
+        "image4": "./img/tala-va-nog.jpg",
+        "title1": "موبایل",
+        "title2": "سلامت و پزشکی",
+        "title3": "لوازم تحریر",
+        "title4": "طلا و نقره"
+      }
+    ]
+  },
+  "section10": {
+    "title": [
+      { "id": 1, "header": "محبوب‌ترین برندها", "image": "./img/star.svg" }
+    ],
+    "slider": [
+      {
+        "id": 1,
+        "image1": "./img/peril.png",
+        "image2": "./img/persil.png",
+        "image3": "./img/charm-mashad.jpg",
+        "title1": "پریل",
+        "title2": "پرسیل",
+        "title3": "چرم مشهد"
+      },
+      {
+        "id": 2,
+        "image1": "./img/peril.png",
+        "image2": "./img/persil.png",
+        "image3": "./img/charm-mashad.jpg",
+        "title1": "پریل",
+        "title2": "پرسیل",
+        "title3": "چرم مشهد"
+      },
+      {
+        "id": 3,
+        "image1": "./img/peril.png",
+        "image2": "./img/persil.png",
+        "image3": "./img/charm-mashad.jpg",
+        "title1": "پریل",
+        "title2": "پرسیل",
+        "title3": "چرم مشهد"
+      },
+      {
+        "id": 4,
+        "image1": "./img/peril.png",
+        "image2": "./img/persil.png",
+        "image3": "./img/charm-mashad.jpg",
+        "title1": "پریل",
+        "title2": "پرسیل",
+        "title3": "چرم مشهد"
+      },
+      {
+        "id": 5,
+        "image1": "./img/peril.png",
+        "image2": "./img/persil.png",
+        "image3": "./img/charm-mashad.jpg",
+        "title1": "پریل",
+        "title2": "پرسیل",
+        "title3": "چرم مشهد"
+      },
+      {
+        "id": 6,
+        "image1": "./img/peril.png",
+        "image2": "./img/persil.png",
+        "image3": "./img/charm-mashad.jpg",
+        "title1": "پریل",
+        "title2": "پرسیل",
+        "title3": "چرم مشهد"
+      }
+    ],
+    "lastSlide": [{ "id": 1, "image": "./img/peril.png", "title": "پریل" }]
+  },
+  "section9&section11": [
+    {
+      "id": 1,
+      "image1": "./img/section9-item1.gif",
+      "image2": "./img/section9-item2.webp"
+    }
+  ],
+  "section12&section14": {
+    "box1": [
+      {
+        "id": 1,
+        "h3": "گوشی موبایل",
+        "span": "بر اساس سلیقه شما",
+        "image1": "./img/section12-item1.jpg",
+        "image2": "./img/section12-item2.jpg",
+        "image3": "./img/section12-item3.jpg",
+        "image4": "./img/section12-item4.jpg",
+        "span2": "مشاهده",
+        "pointer": "./img/pointer.svg"
+      },
+      {
+        "id": 2,
+        "h3": "گوشی موبایل",
+        "span": "بر اساس سلیقه شما",
+        "image1": "./img/section12-item1.jpg",
+        "image2": "./img/section12-item2.jpg",
+        "image3": "./img/section12-item3.jpg",
+        "image4": "./img/section12-item4.jpg",
+        "span2": "مشاهده",
+        "pointer": "./img/pointer.svg"
+      },
+      {
+        "id": 3,
+        "h3": "گوشی موبایل",
+        "span": "بر اساس سلیقه شما",
+        "image1": "./img/section12-item1.jpg",
+        "image2": "./img/section12-item2.jpg",
+        "image3": "./img/section12-item3.jpg",
+        "image4": "./img/section12-item4.jpg",
+        "span2": "مشاهده",
+        "pointer": "./img/pointer.svg"
+      }
+    ],
+    "box2": [
+      {
+        "id": 1,
+        "h3": "گوشی موبایل",
+        "span": "بر اساس سلیقه شما",
+        "image1": "./img/section12-item1.jpg",
+        "image2": "./img/section12-item2.jpg",
+        "image3": "./img/section12-item3.jpg",
+        "image4": "./img/section12-item4.jpg",
+        "span2": "مشاهده",
+        "pointer": "./img/pointer.svg"
+      }
+    ]
+  },
+  "section13&section16": {
+    "header": [{ "id": 1, "title": "پرفروش‌ترین کالاها" }],
+    "slides": [
+      {
+        "id": 1,
+        "image1": "./img/por-forosh-item1.webp",
+        "number1": "1",
+        "span1": "کنسرو ماهی تون در روغن شیلتون - 180گرم",
+        "image2": "./img/por-forosh-item2.webp",
+        "number2": "2",
+        "span2": "ویال خوراکی ال-کارنیتین عصاره قهوه سبز",
+        "image3": "./img/por-forosh-item3.webp",
+        "number3": "3",
+        "span3": "قرص مولتی ویتامین کامپلیت یورو ویتال بسته"
+      },
+      {
+        "id": 2,
+        "image1": "./img/por-forosh-item1.webp",
+        "number1": "4",
+        "span1": "کنسرو ماهی تون در روغن شیلتون - 180گرم",
+        "image2": "./img/por-forosh-item2.webp",
+        "number2": "5",
+        "span2": "ویال خوراکی ال-کارنیتین عصاره قهوه سبز",
+        "image3": "./img/por-forosh-item3.webp",
+        "number3": "6",
+        "span3": "قرص مولتی ویتامین کامپلیت یورو ویتال بسته"
+      },
+      {
+        "id": 3,
+        "image1": "./img/por-forosh-item1.webp",
+        "number1": "7",
+        "span1": "کنسرو ماهی تون در روغن شیلتون - 180گرم",
+        "image2": "./img/por-forosh-item2.webp",
+        "number2": "8",
+        "span2": "ویال خوراکی ال-کارنیتین عصاره قهوه سبز",
+        "image3": "./img/por-forosh-item3.webp",
+        "number3": "9",
+        "span3": "قرص مولتی ویتامین کامپلیت یورو ویتال بسته"
+      },
+      {
+        "id": 4,
+        "image1": "./img/por-forosh-item1.webp",
+        "number1": "10",
+        "span1": "کنسرو ماهی تون در روغن شیلتون - 180گرم",
+        "image2": "./img/por-forosh-item2.webp",
+        "number2": "11",
+        "span2": "ویال خوراکی ال-کارنیتین عصاره قهوه سبز",
+        "image3": "./img/por-forosh-item3.webp",
+        "number3": "12",
+        "span3": "قرص مولتی ویتامین کامپلیت یورو ویتال بسته"
+      },
+      {
+        "id": 5,
+        "image1": "./img/por-forosh-item1.webp",
+        "number1": "13",
+        "span1": "کنسرو ماهی تون در روغن شیلتون - 180گرم",
+        "image2": "./img/por-forosh-item2.webp",
+        "number2": "14",
+        "span2": "ویال خوراکی ال-کارنیتین عصاره قهوه سبز",
+        "image3": "./img/por-forosh-item3.webp",
+        "number3": "15",
+        "span3": "قرص مولتی ویتامین کامپلیت یورو ویتال بسته"
+      },
+      {
+        "id": 6,
+        "image1": "./img/por-forosh-item1.webp",
+        "number1": "16",
+        "span1": "کنسرو ماهی تون در روغن شیلتون - 180گرم",
+        "image2": "./img/por-forosh-item2.webp",
+        "number2": "17",
+        "span2": "ویال خوراکی ال-کارنیتین عصاره قهوه سبز",
+        "image3": "./img/por-forosh-item3.webp",
+        "number3": "18",
+        "span3": "قرص مولتی ویتامین کامپلیت یورو ویتال بسته"
+      }
+    ]
+  },
+  "section15": {
+    "title": [
+      {
+        "id": 1,
+        "image": "./img/montakhab.svg",
+        "span": "منتخب محصولات تخفیف و حراج"
+      }
+    ],
+    "row": [
+      {
+        "id": 1,
+        "toman": "./img/toman.svg",
+        "percent": "23%",
+        "off": "۱,۳۱۵,۰۰۰",
+        "price": "۱,۶۹۹,۰۰۰",
+        "image1": "./img/montakhab-item1.webp",
+        "image2": "./img/montakhab-item2.webp",
+        "image3": "./img/montakhab-item3.webp",
+        "image4": "./img/montakhab-item4.webp",
+        "image5": "./img/montakhab-item5.webp",
+        "image6": "./img/montakhab-item6.webp"
+      },
+      {
+        "id": 2,
+        "toman": "./img/toman.svg",
+        "percent": "23%",
+        "off": "۱,۳۱۵,۰۰۰",
+        "price": "۱,۶۹۹,۰۰۰",
+        "image1": "./img/montakhab-item1.webp",
+        "image2": "./img/montakhab-item2.webp",
+        "image3": "./img/montakhab-item3.webp",
+        "image4": "./img/montakhab-item4.webp",
+        "image5": "./img/montakhab-item5.webp",
+        "image6": "./img/montakhab-item6.webp"
+      }
+    ],
+    "rowEnd": [
+      {
+        "id": 1,
+        "toman": "./img/toman.svg",
+        "percent": "23%",
+        "off": "۱,۳۱۵,۰۰۰",
+        "price": "۱,۶۹۹,۰۰۰",
+        "image1": "./img/montakhab-item1.webp",
+        "image2": "./img/montakhab-item2.webp",
+        "image3": "./img/montakhab-item3.webp",
+        "image4": "./img/montakhab-item4.webp",
+        "image5": "./img/montakhab-item5.webp",
+        "image6": "./img/montakhab-item6.webp"
+      }
+    ]
+  },
+  "section17": {
+    "header": [
+      {
+        "id": 1,
+        "title": "مطالب بیشتر در دیجی‌کالا مگ",
+        "image": "./img/pointer.svg"
+      }
+    ],
+    "elem": [
+      {
+        "id": 1,
+        "image": "./img/article-item1.webp",
+        "desc": "ناصر تقوایی درگذشت؛ خداحافظی با نابغه‌ی کم‌کار"
+      },
+      {
+        "id": 2,
+        "image": "./img/article-item2.webp",
+        "desc": "بهترین پلوپز پارس خزر؛ راهنمای خرید و معرفی مدل‌های پرفروش"
+      },
+      {
+        "id": 3,
+        "image": "./img/article-item3.webp",
+        "desc": "آشنایی با هواپیمای جنگنده اف ۳۵؛ پیروز میدان نبرد در لبه‌ فناوری"
+      },
+      {
+        "id": 4,
+        "image": "./img/article-item4.webp",
+        "desc": "بهترین روغن برای خشکی لب؛ راهنمای انتخاب برای لب‌های نرم و شاداب"
+      }
+    ]
+  },
+  "footer1": [
+    {
+      "id": 1,
+      "image1": "./img/digiLogo.svg",
+      "desc1": "بازگشت به بالا",
+      "desc2": "رفتن به بالا",
+      "image2": "./img/pointer-up.svg"
+    }
+  ],
+  "footer2": [
+    {
+      "id": 1,
+      "desc1": "تلفن پشتیبانی ۶۱۹۳۰۰۰۰ - ۰۲۱",
+      "desc2": "|",
+      "desc3": "۰۲۱-۹۱۰۰۰۱۰۰",
+      "desc4": "|",
+      "desc5": "۷ روز هفته، ۲۴ ساعته پاسخگوی شما هستیم"
+    }
+  ],
+  "footer3": [
+    {
+      "id": 1,
+      "image": "./img/footer-3-item1.svg",
+      "desc": "اﻣﮑﺎن ﺗﺤﻮﯾﻞ اﮐﺴﭙﺮس"
+    },
+    {
+      "id": 2,
+      "image": "./img/footer-3-item2.svg",
+      "desc": "امکان پرداخت در محل"
+    },
+    {
+      "id": 3,
+      "image": "./img/footer-3-item3.svg",
+      "desc": "۷ روز ﻫﻔﺘﻪ، ۲۴ ﺳﺎﻋﺘﻪ"
+    },
+    {
+      "id": 4,
+      "image": "./img/footer-3-item4.svg",
+      "desc": "هفت روز ضمانت بازگشت کالا"
+    },
+    {
+      "id": 5,
+      "image": "./img/footer-3-item5.svg",
+      "desc": "ﺿﻤﺎﻧﺖ اﺻﻞ ﺑﻮدن ﮐﺎﻟﺎ"
+    }
+  ],
+  "footer4": {
+    "firstT": [
+      {
+        "id": 1,
+        "title": "با دیجی‌کالا",
+        "span1": "اتاق خبر دیجی‌کالا",
+        "span2": "فروش در دیجی‌کالا",
+        "span3": "فرصت‌های شغلی",
+        "span4": "گزارش تخلف در دیجی‌کالا",
+        "span5": "تماس با دیجی‌کالا",
+        "span6": "درباره دیجی‌کالا"
+      }
+    ],
+    "secondT": [
+      {
+        "id": 1,
+        "title": "خدمات مشتریان",
+        "span1": "پاسخ به پرسش‌های متداول",
+        "span2": "رویه‌های بازگرداندن کالا",
+        "span3": "شرایط استفاده",
+        "span4": "حریم خصوصی",
+        "span5": "گزارش باگ"
+      }
+    ],
+    "thirdT": [
+      {
+        "id": 1,
+        "title": "راهنمای خرید از دیجی‌کالا",
+        "span1": "نحوه ثبت سفارش",
+        "span2": "رویه ارسال سفارش",
+        "span3": "شیوه‌های پرداخت"
+      }
+    ],
+    "last": [
+      {
+        "id": 1,
+        "title": "همراه ما باشید!",
+        "image1": "./img/insta.svg",
+        "image2": "./img/twitter.svg",
+        "image3": "./img/linkdin.svg",
+        "image4": "./img/aparat.svg",
+        "h1": "با ثبت ایمیل، از جدید‌ترین تخفیف‌ها با‌خبر شوید",
+        "button": "ثبت"
+      }
+    ]
+  },
+  "footer5": [
+    {
+      "id": 1,
+      "image1": "./img/footerlogo2.webp",
+      "desc": "دانلود اپلیکیشن دیجی‌کالا",
+      "image2": "./img/coffe-bazzar.svg",
+      "image3": "./img/myket.svg",
+      "image4": "./img/sib-app.svg",
+      "image5": "./img/More2.svg"
+    }
+  ],
+  "footer6": {
+    "smItems": [
+      {
+        "image1": "./img/support.png",
+        "h1": "تماس با پشتیبانی",
+        "span1": "۷ روز هفته، ۲۴ ساعت",
+        "span2One": "تماس",
+        "image2": "./img/digiappImg.png",
+        "h1Two": "اپلیکیشن دیجی‌کالا",
+        "span2": "تجربه خرید بهتر در",
+        "span2Two": "دانلود",
+        "h2Three": "با دیجی‌کالا",
+        "h2Four": "خدمات مشتریان",
+        "h2Five": "راهنمای خرید از دیجی‌کالا",
+        "h2Six": "شرکای تجاری",
+        "pointer": "./img/pointer-down.png"
+      }
+    ],
+    "desc": [
+      {
+        "h1": "دیجی کالا؛ بزرگترین فروشگاه اینترنتی ایران",
+        "span1": "دیجی کالا سال‌ها است که به انتخاب اول بسیاری از خریداران اینترنتی تبدیل شده است. دیجی کالا به عنوان بزرگ‌ترین و معتبرترین فروشگاه آنلاین ایران، شناخته‌شده‌ترین فروشگاه نیز محسوب می‌شود. این فروشگاه آنلاین نه‌تنها گسترده‌ترین تنوع کالا را در دسته‌بندی‌های مختلف ارائه می‌دهد، بلکه با خدمات بی‌نظیر، ارسال سریع، ضمانت اصل بودن کالا و پشتیبانی حرفه‌ای، استاندارد جدیدی در خرید اینترنتی ایران تعریف کرده است. این فروشگاه با سال‌ها تجربه و اعتماد مشتریان، کامل‌ترین و بهترین گزینه برای خرید آنلاین در ایران محسوب می‌شود",
+        "span2": "مشاهده بیشتر",
+        "pointer": "./img/pointer.svg"
+      }
+    ],
+    "logos": [
+      {
+        "image1": "./img/sapra.webp",
+        "image2": "./img/rezi.webp",
+        "image3": "./img/kasbokar.webp",
+        "image4": "./img/e-etemad.png"
+      }
+    ]
+  },
+  "footer7": [
+    {
+      "id": 1,
+      "desc": "برای استفاده از مطالب دیجی‌کالا، داشتن «هدف غیرتجاری» و ذکر «منبع» کافیست. تمام حقوق اين وب‌سايت نیز برای شرکت نوآوران فن آوازه (فروشگاه آنلاین دیجی‌کالا) است."
+    }
+  ],
+  "footer8": {
+    "row": [
+      {
+        "id": 1,
+        "image1": "./img/mag.svg",
+        "image2": "./img/digipay.svg",
+        "image3": "./img/digistyle.svg",
+        "image4": "./img/digiplus.svg",
+        "image5": "./img/digiclub.svg",
+        "image6": "./img/digijet.svg",
+        "image7": "./img/digimehr.svg",
+        "image8": "./img/digiext.svg"
+      }
+    ],
+    "rowEnd": [
+      {
+        "id": 1,
+        "image1": "./img/digiexpress.svg",
+        "image2": "./img/ghanje.svg",
+        "image3": "./img/digifiy.svg",
+        "image4": "./img/smarttec.svg",
+        "image5": "./img/digikalabiz.svg",
+        "image6": "./img/digikala-service.svg",
+        "image7": "./img/miyare.svg",
+        "image8": "./img/vidomart.svg"
+      }
+    ],
+    "smApp": [
+      {
+        "image": "./img/digiappImg.png",
+        "h2": "اپلیکیشن دیجی‌کالا",
+        "span1": "تجربه خرید بهتر در",
+        "span2": "دانلود"
+      }
+    ],
+    "smBar": [
+      {
+        "image1": "./img/home.png",
+        "span1": "خانه",
+        "image2": "./img/daste.png",
+        "span2": "دسته‌بندی",
+        "image3": "./img/sabad-sm.png",
+        "span3": "سبد خرید",
+        "image4": "./img/magnet.png",
+        "span4": "مگنت",
+        "image5": "./img/mydigikala.png",
+        "span5": "دیجی‌کالای من"
+      }
+    ]
+  }
+}
